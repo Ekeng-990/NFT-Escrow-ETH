@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### 📌 Steps to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/nft-escrow-marketplace.git
-   cd nft-escrow-marketplace
+   git clone https://github.com/Ekeng-990/NFT-Escrow-ETH.git
+   cd NFT-Escrow-ETH
    ```
 
 2. Install dependencies:
